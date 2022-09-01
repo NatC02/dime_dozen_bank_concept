@@ -56,7 +56,6 @@ Built and implemented with:
 
 ## Usage
 
-![project-demo](https://raw.githubusercontent.com/NatC02/pwa-grid-memory-game/main/README.gif)
 
 ### Built with:
 
