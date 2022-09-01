@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "<dime-dozen>"
+  }
+}
+firebase use \
+--unalias PROJECT_ALIAS
