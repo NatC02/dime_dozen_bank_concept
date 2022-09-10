@@ -9,7 +9,7 @@ const Footer = () => (
         <img
           src={logo}
           alt="dimedozen"
-          className="w-[266px] h-[72.14px] object-contain"
+          className="w-[266px] h-[72.14px] object-contain rounded-r-md"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
           A new way to make the payments easy, reliable and secure.
